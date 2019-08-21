@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>record_icon</file>
+    </qresource>
+</RCC>
